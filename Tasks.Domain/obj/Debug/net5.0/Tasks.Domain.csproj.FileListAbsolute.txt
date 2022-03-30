@@ -1,0 +1,12 @@
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\bin\Debug\net5.0\Tasks.Domain.deps.json
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\bin\Debug\net5.0\Tasks.Domain.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\bin\Debug\net5.0\ref\Tasks.Domain.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\bin\Debug\net5.0\Tasks.Domain.pdb
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.csproj.AssemblyReference.cache
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.AssemblyInfoInputs.cache
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.AssemblyInfo.cs
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\ref\Tasks.Domain.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Domain\obj\Debug\net5.0\Tasks.Domain.pdb

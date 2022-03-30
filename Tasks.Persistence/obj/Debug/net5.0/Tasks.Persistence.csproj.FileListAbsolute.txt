@@ -1,0 +1,17 @@
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Persistence.deps.json
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Persistence.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\ref\Tasks.Persistence.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Persistence.pdb
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Application.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Domain.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Application.pdb
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\bin\Debug\net5.0\Tasks.Domain.pdb
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.csproj.AssemblyReference.cache
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.AssemblyInfoInputs.cache
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.AssemblyInfo.cs
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.csproj.CopyComplete
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\ref\Tasks.Persistence.dll
+C:\Users\isaa0\source\repos\WebApiApp1\Tasks.Persistence\obj\Debug\net5.0\Tasks.Persistence.pdb

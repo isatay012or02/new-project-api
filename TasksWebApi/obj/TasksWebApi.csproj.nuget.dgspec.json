@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\TasksWebApi\\TasksWebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj",
+        "projectName": "Tasks.Application",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Domain\\Tasks.Domain.csproj": {
+                "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Domain\\Tasks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Domain\\Tasks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Domain\\Tasks.Domain.csproj",
+        "projectName": "Tasks.Domain",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Domain\\Tasks.Domain.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Persistence\\Tasks.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Persistence\\Tasks.Persistence.csproj",
+        "projectName": "Tasks.Persistence",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Persistence\\Tasks.Persistence.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj": {
+                "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\TasksWebApi\\TasksWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\TasksWebApi\\TasksWebApi.csproj",
+        "projectName": "TasksWebApi",
+        "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\TasksWebApi\\TasksWebApi.csproj",
+        "packagesPath": "C:\\Users\\isaa0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\TasksWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\isaa0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj": {
+                "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Application\\Tasks.Application.csproj"
+              },
+              "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Persistence\\Tasks.Persistence.csproj": {
+                "projectPath": "C:\\Users\\isaa0\\source\\repos\\WebApiApp1\\Tasks.Persistence\\Tasks.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
